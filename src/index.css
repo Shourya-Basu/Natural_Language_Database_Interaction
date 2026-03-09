@@ -1,0 +1,10 @@
+@font-face {
+    font-family: knewave;
+    src: url("../src/Fonts/Knewave-Regular.ttf");
+}
+
+@import "tailwindcss";
+
+@theme{
+    --font-Knewave: knewave,"sans-serif";
+}
