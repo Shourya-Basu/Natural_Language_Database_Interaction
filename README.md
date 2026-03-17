@@ -31,7 +31,7 @@ Build and deploy a webpage capable of interacting with databases using natural l
 
 ---
 ### API Keys use
-- ![Open Router](https://openrouter.ai/)
+![OpenRouter](https://custom-icon-badges.demolab.com/badge/OpenRouter-94A3B8?logo=openrouter&logoColor=white)
 ---
 
 ### Quick Start
@@ -49,10 +49,8 @@ Running the Project
 
 ### Webpage look
 
-**Login Page**
 
 ![Login Page](src/assets/Screenshot%202026-03-17%20080342.png)
 
-**Signup Page**
 
 ![Signup Page](src/assets/Screenshot%202026-03-17%20081522.png)
